@@ -1,5 +1,6 @@
 # Wiegestation
 Software und Firmware für eine Javascript und *duino basierte Wiegestation für Unverpackt-Läden
+
 # Features
 * Kalibrierung der Waage
 * Benutzerverwaltung (Name, Foto, Kontaktdaten, [prepaid] Kontostand, ggf. Kontodaten)
@@ -12,6 +13,7 @@ Software und Firmware für eine Javascript und *duino basierte Wiegestation für
 * Offlinefähig, falls kein Internet im Lager verfügbar ist
 * (nicetohave) QR-Code für Produkte und ggf. für schnellen Benutzerwechsel
 * Letzter Tara Wert wird für schnellen Benutzerwechsel für jeden Benutzer separat gespeichert.
+
 # Hardware
 * http://airtripper.com/1626/arduino-load-cell-circuit-sketch-for-calibration-test/
 * http://airtripper.com/1397/electronic-kitchen-scales-teardown-versus-load-cells/
