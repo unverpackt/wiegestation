@@ -1,5 +1,5 @@
 # Wiegestation
-Software und Firmware für eine *duino basierte Wiegestation für Unverpackt-Läden
+Software und Firmware für eine JS und *duino basierte Wiegestation für Unverpackt-Läden
 # Features
 * Kalibrierung der Waage
 * Benutzerverwaltung
@@ -10,3 +10,4 @@ Software und Firmware für eine *duino basierte Wiegestation für Unverpackt-Lä
 * Bestellvorschläge (wie viel, wie eilig)
 * Kommunikation à la Facebook-Gruppe (Timeline, Statusupdate + Kommentare + Likes)
 * Offlinefähig, falls kein Internet im Lager verfügbar ist
+* (nicetohave) QR-Code für Produkte und ggf. für schnellen Benutzerwechsel
