@@ -1,5 +1,5 @@
 # Wiegestation
-Software und Firmware für eine JS und *duino basierte Wiegestation für Unverpackt-Läden
+Software und Firmware für eine Javascript und *duino basierte Wiegestation für Unverpackt-Läden
 # Features
 * Kalibrierung der Waage
 * Benutzerverwaltung
