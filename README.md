@@ -1,5 +1,5 @@
 # Wiegestation
-Software und Firmware für eine Javascript und *duino basierte Wiegestation für Unverpackt-Läden bzw. Food Coops oder Einkaufsgemeinschaften.
+Software und Firmware für eine Javascript und *duino basierte Wiegestation für Unverpackt-Läden bzw. Food Coops.
 
 # Features
 * Kalibrierung der Waage
