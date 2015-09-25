@@ -27,3 +27,9 @@ Alternativ:
 Erhöhung der Genauigkeit durch Oversampling:
 * http://shelvin.de/die-aufloesung-des-adc-vom-arduino-uno-erhoehen-auf-16-bit/
 
+#Datenhaltung und -Synchronisation
+Variante 1 - gerootetes Android Device mit NodeJS + MongoDB / CouchDB:
+* http://www.codemonkeez.com/2014/05/how-i-got-nodejs-and-mongodb-running-on.html
+Variante 2 - Apache Cordova App mit PouchDB und Synchronisation zu serverseitiger CouchDB:
+* http://pouchdb.com/
+
